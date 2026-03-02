@@ -8,8 +8,6 @@ Data Standardization: Converting inconsistent date strings into proper SQL DATE 
 
 Self-Joins: Populating missing property addresses by matching ParcelID.
 
-String Manipulation: Splitting complex address strings into individual columns (Address, City, State) using SUBSTRING_INDEX.
-
 Deduplication: Identifying and removing duplicate records using Window Functions (ROW_NUMBER) and CTEs.
 
 Schema Optimization: Cleaning up the database by dropping unused or redundant columns to improve query performance.
