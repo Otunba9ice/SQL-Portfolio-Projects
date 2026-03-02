@@ -1,6 +1,7 @@
 **Nashville Housing Data Cleaning**
 
 **Project Overview**
+
 This project focuses on transforming raw, messy housing data into a structured, analysis-ready format using MySQL. The goal was to take a dataset with inconsistent formatting, missing values, and duplicate entries and apply professional data-cleaning techniques to ensure data integrity for future visualization in Power BI.
 
 **Technical Skills Demonstrated**
